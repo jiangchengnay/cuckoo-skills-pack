@@ -2,7 +2,7 @@
   "id": "cuckoo-skills-pack",
   "name": "全能技能包",
   "version": "1.0.0",
-  "description": "为 Cuckoo Code 提供一组通用开发技能：代码审查、Git 提交信息、解释代码、重构建议、安全自查、编写单测、生成文档、错误排查。纯提示词、零执行、开箱即用。",
+  "description": "为 Cuckoo Code 提供一组通用开发技能（代码审查、Git 提交、解释代码、重构、安全自查、写单测、生成文档、错误排查），让 AI 助手在常见开发场景下表现得更专业、更可靠。纯提示词、零执行、开箱即用。",
   "author": "jiangchengnay",
   "minAppVersion": "0.8.7"
 }
